@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webflix-movie-api/static/css/main.077a73e2.css",
+    "main.js": "/webflix-movie-api/static/js/main.f72d49e6.js",
+    "static/js/787.21eb05c8.chunk.js": "/webflix-movie-api/static/js/787.21eb05c8.chunk.js",
+    "index.html": "/webflix-movie-api/index.html",
+    "main.077a73e2.css.map": "/webflix-movie-api/static/css/main.077a73e2.css.map",
+    "main.f72d49e6.js.map": "/webflix-movie-api/static/js/main.f72d49e6.js.map",
+    "787.21eb05c8.chunk.js.map": "/webflix-movie-api/static/js/787.21eb05c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.077a73e2.css",
+    "static/js/main.f72d49e6.js"
+  ]
+}
